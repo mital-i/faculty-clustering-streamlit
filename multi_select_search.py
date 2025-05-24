@@ -2,6 +2,7 @@
 
 import streamlit as st
 import numpy as np
+import pandas as pd
 import re
 from streamlit_plotly_events import plotly_events
 import plotly.express as px
@@ -60,6 +61,12 @@ def render_mesh_selector(umap_df, mesh_df):
 
     # ————————————————————————————————————————————————————————————————
     # 4) One Plotly figure + multi-select
+    df = pd.DataFrame({
+    "x": [1, 2, 3, 4],
+    "y": [10, 20, 25, 30]
+    })
+    fig = px.scatter(df, x="x", y="y", title="Test Scatter")
+    st.plotly_chart(fig)
     fig = px.scatter(
         df,
         x="V1", y="V2",

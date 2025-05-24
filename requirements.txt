@@ -4,7 +4,6 @@ streamlit
 umap
 umap-learn
 scikit-learn
-umap-learn
 plotly
 statsmodels
 matplotlib
@@ -15,5 +14,4 @@ kaleido
 openpyxl
 biopython
 networkx
-igraph
 streamlit-plotly-events
