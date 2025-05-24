@@ -1,0 +1,115 @@
+V1,V2,Faculty_Full_Name,Top_Mesh_Terms,cluster
+6.3699927,3.9033852,"Allison, Steven","Normalized Soil, Normalized Droughts, Normalized Nitrogen",0
+0.14773035,9.134421,"Arora, Kavita","Normalized Computational Biology, Normalized Genetics",3
+8.379801,11.529629,"Atwood, Scott","Normalized Skin Neoplasms, Normalized Molecular Biology, Normalized Immunity",0
+6.881245,4.0732594,"Azizi, Emanuel","Normalized Biomechanical Phenomena, Normalized Temperature",0
+8.020888,11.016264,"Baker, Nicholas",Normalized Phosphorylation,0
+7.8602233,11.5281925,"Bardwell, Lee","Normalized Hedgehog Proteins, Normalized Phosphorylation, Normalized Ligands",0
+1.4949918,9.497586,"Blumberg, Bruce","Normalized Obesity, Normalized Chromatin, Normalized Multiomics",0
+8.731677,8.757882,"Blurton-Jones, Mathew","Normalized Cytokines, Normalized Macrophages, Normalized Disease Progression",0
+6.136965,4.8373313,"Bracken, Matthew","Normalized Biodiversity, Normalized Ecological and Environmental Phenomena, Normalized Nitrogen",0
+-4.776621,10.924906,"Briscoe, Adriana","Normalized Phylogeny, Normalized Clustered Regularly Interspaced Short Palindromic Repeats, Normalized Evolution  Molecular",0
+8.049707,10.400648,"Burley, Nancy",,0
+9.013728,6.80981,"Busciglio, Jorge","Normalized Cognitive Dysfunction, Normalized Aged, Normalized Proteomics",0
+8.08093,4.321278,"Cahill, Larry",Normalized Magnetic Resonance Imaging,0
+1.229067,9.386223,"Cho, Ken","Normalized Gene Regulatory Networks, Normalized Chromatin, Normalized Embryonic Development",0
+8.128511,6.68747,"Chrastil, Elizabeth","Normalized Neuroimaging, Normalized Magnetic Resonance Imaging, Normalized Computer Simulation",0
+0.19597606,9.153699,"Cinquin, Olivier","Normalized Computational Biology, Normalized Cell Line",6
+8.755628,8.565638,"Cocco, Melanie","Normalized Magnetic Resonance Imaging, Normalized Temperature, Normalized Genotype",0
+9.177558,8.658191,"Cohen-Cory, Susana",Normalized Synapses,0
+7.622118,11.101536,"Connor, Kwasi","Normalized Homeostasis, Normalized Temperature, Normalized Diet",0
+7.194388,4.0118275,"Cramer, Karina","Normalized Neuronal Plasticity, Normalized Synapses, Normalized Apoptosis",0
+6.710354,4.2326655,"Daley, Monica","Normalized Biomechanical Phenomena, Normalized Resilience  Psychological, Normalized Computer Simulation",0
+8.455289,11.414312,"Donovan, Peter","Normalized Neurodegenerative Diseases, Normalized Stem Cells, Normalized Chromatin",0
+8.660651,11.2336445,"Drayman, Nir","Normalized Antiviral Agents, Normalized Virus Diseases, Normalized RNA",0
+8.558855,9.662475,"Edinger, Aimee","Normalized CRISPR Cas Systems, Normalized Tumor Microenvironment, Normalized Nutrients",0
+8.104613,7.7629247,"Emerson, J.J.","Normalized Genotype, Normalized Alleles, Normalized Evolution  Molecular",0
+6.073672,4.7489886,"Eom, Dae Seok","Normalized Zebrafish, Normalized Macrophages",0
+5.8605876,6.0897846,"Faiola, Celia","Normalized Temperature, Normalized Soil, Normalized Resilience  Psychological",0
+8.776999,9.55443,"Fortin, Norbert",Normalized Memory,0
+9.490333,7.7300267,"Fowler, Christie","Normalized Nicotine, Normalized Chromatin, Normalized Microscopy",0
+-0.97978437,8.672615,"Frank, Steven","Normalized Biological Evolution, Normalized Computer Simulation, Normalized Computational Biology",7
+8.944834,7.122903,"Frostig, Ron","Normalized Astrocytes, Normalized Magnetic Resonance Imaging, Normalized Neuronal Plasticity",0
+8.1386595,11.541652,"Fruman, David","Normalized Cell Line, Normalized Cell Proliferation, Normalized Apoptosis",0
+-5.032276,10.922839,"Gaut, Brandon","Normalized Genetic Variation, Normalized Chromatin, Normalized Epigenomics",0
+-5.255586,11.104555,"German, Donovan","Normalized Diet, Normalized Temperature, Normalized Ecological and Environmental Phenomena",4
+9.091695,8.736531,"Gershon, Paul","Normalized Proteomics, Normalized Escherichia coli, Normalized DNA",0
+8.39877,6.9845204,"Glabe, Charles","Normalized Amyloid, Normalized Immunity, Normalized Neurodegenerative Diseases",0
+8.224316,7.208174,"Gonen, Shane","Normalized Cryoelectron Microscopy, Normalized Microscopy, Normalized Bacteriophages",0
+8.413356,9.482393,"Goulding, Celia","Normalized Anti Bacterial Agents, Normalized Ligands, Normalized Pandemics",0
+5.902157,6.1614733,"Green, Kim","Normalized Cell Proliferation, Normalized Amyloid beta Peptides, Normalized Monocytes",0
+8.468495,7.3662214,"Green, Michael","Normalized Ligands, Normalized Child, Normalized Nitrogenase",0
+7.9492497,4.2399225,"Grill, Joshua","Normalized Aged, Normalized Amyloid, Normalized Amyloid beta Peptides",0
+1.691755,9.635837,"Gross, Steven","Normalized Neurodegenerative Diseases, Normalized Computer Simulation, Normalized Anti Infective Agents",0
+8.932292,7.3665843,"Halbrook, Christopher","Normalized Pancreatic Neoplasms, Normalized Tumor Microenvironment, Normalized Oxidation Reduction",0
+-5.13922,11.055705,"Hammer, Tobin","Normalized Gastrointestinal Microbiome, Normalized Parasites, Normalized Ecological and Environmental Phenomena",4
+6.401445,4.1422095,"Hu, Yilin","Normalized Nitrogenase, Normalized Escherichia coli, Normalized Nitrogen",0
+8.406321,10.344649,"Hughes, Christopher","Normalized Colorectal Neoplasms, Normalized Incidence, Normalized Survival Rate",0
+6.111922,5.3835945,"Huxman, Travis","Normalized Temperature, Normalized Ecological and Environmental Phenomena, Normalized Soil",0
+9.108294,6.3008885,"Inlay, Matthew","Normalized Hematopoietic Stem Cell Transplantation, Normalized Graft vs Host Disease, Normalized T Lymphocytes  Regulatory",0
+1.1885461,9.292843,"James, Anthony","Normalized Genetics, Normalized CRISPR Cas Systems, Normalized RNA",0
+7.9693246,4.3697495,"Kawas, Claudia","Normalized Aged  80 and over, Normalized Cognitive Dysfunction, Normalized Aged",0
+7.952779,10.527537,"Kim, Seungsoo",,0
+7.5413284,11.515291,"Kong, Mei","Normalized Colorectal Neoplasms, Normalized Nutrients, Normalized Heterografts",0
+7.9954767,10.465197,"Konieczny, Piotr",,0
+6.0054393,5.787643,"Kvon, Evgeny","Normalized Chromatin, Normalized Hedgehog Proteins, Normalized Organoids",0
+6.0770135,5.882885,"LaFerla, Frank","Normalized Amyloid beta Peptides, Normalized Proteomics, Normalized Disease Progression",0
+5.9720654,6.176695,"Lamb, Joleah","Normalized Temperature, Normalized Ecological and Environmental Phenomena, Normalized Biodiversity",0
+1.3371664,9.34523,"Lander, Arthur","Normalized Stem Cells, Normalized RNA, Normalized Cell Differentiation",0
+8.975013,6.5241346,"Lane, Thomas","Normalized COVID 19, Normalized Neuroinflammatory Diseases, Normalized Pandemics",0
+9.020726,10.219885,"Lara-Gonzalez, Pablo","Normalized Embryonic Development, Normalized Cell Proliferation, Normalized Cues",0
+-0.39900884,8.79977,"Lee, Grace","Normalized Parasites, Normalized Diet, Normalized Evolution  Molecular",0
+8.88434,6.5199566,"Lodoen, Melissa","Normalized Toxoplasma, Normalized Parasites, Normalized Monocytes",0
+-0.68433166,8.681543,"Long, Anthony","Normalized Genotype, Normalized Macrophages, Normalized Persistent Infection",0
+0.5036288,8.96998,"Luo, Ray","Normalized Computational Biology, Normalized Proteomics, Normalized Hippo Signaling Pathway",0
+1.0689248,9.46269,"Lur, Gyorgy","Normalized Synapses, Normalized Memory Consolidation, Normalized Genetics",0
+5.8756456,4.811305,"Lutterschmidt, Deborah","Normalized Temperature, Normalized Ecological and Environmental Phenomena",0
+5.8310623,4.956137,"MacGregor, Grant","Normalized Amyloid beta Peptides, Normalized Gastrointestinal Microbiome, Normalized Disease Progression",0
+0.7574167,9.302608,"Mahler, Stephen",Normalized Genetics,0
+-1.3266994,8.796763,"Martinez, Christopher","Normalized Biomechanical Phenomena, Normalized Biological Evolution, Normalized Ecological and Environmental Phenomena",5
+0.40121958,9.023315,"Martiny, Adam","Normalized Temperature, Normalized Ecological and Environmental Phenomena, Normalized Genetics",0
+-5.136716,10.848681,"Martiny, Jennifer","Normalized Soil, Normalized Gastrointestinal Microbiome, Normalized Diet",4
+6.552183,3.7767384,"McHenry, Matthew","Normalized Biomechanical Phenomena, Normalized Cues, Normalized Ecological and Environmental Phenomena",0
+8.51953,6.6008196,"McNaughton, Bruce","Normalized Sleep, Normalized Cues, Normalized Neuronal Plasticity",0
+9.34661,7.0140324,"McNulty, Reginald","Normalized Inflammasomes, Normalized NLR Family  Pyrin Domain Containing 3 Protein, Normalized Cryoelectron Microscopy",0
+9.389712,6.8899717,"Metherate, Raju","Normalized Nicotine, Normalized Cognitive Dysfunction",0
+-1.106526,8.598199,"Mooney, Kailen","Normalized Biological Evolution, Normalized Droughts, Normalized Alleles",5
+6.3426228,3.7980604,"Morehouse, Benjamin","Normalized Immunity  Innate, Normalized Virus Diseases, Normalized Immune System",0
+8.55809,9.81066,"Morrissette, Naomi","Normalized Parasites, Normalized Toxoplasma, Normalized Fibroblasts",0
+8.823967,10.034778,"Mortazavi, Ali","Normalized Amyloid beta Peptides, Normalized Gene Regulatory Networks, Normalized Single Cell Analysis",0
+8.05456,11.055536,"Nicholas, Dequina","Normalized Cytokines, Normalized Flow Cytometry, Normalized Cell Line",0
+0.87843454,9.482534,"Nie, Qing","Normalized Single Cell Analysis, Normalized Single Cell Gene Expression Analysis, Normalized Gene Regulatory Networks",0
+-4.770797,10.995865,"Parsons, Michael","Normalized Zebrafish, Normalized Pancreatic Neoplasms, Normalized Homeostasis",0
+8.172851,10.619922,"Pizzagalli, Diego",,0
+0.9300843,9.485959,"Plikus, Maksim","Normalized Single Cell Gene Expression Analysis, Normalized Stem Cells, Normalized Computational Biology",0
+-5.310109,11.185187,"Ranz, Jose","Normalized Evolution  Molecular, Normalized Phylogeny, Normalized Ecological and Environmental Phenomena",4
+9.309723,8.11156,"Razorenova, Olga","Normalized Triple Negative Breast Neoplasms, Normalized Oxidative Phosphorylation, Normalized Mitochondria",0
+-1.090424,8.677044,"Rebolleda-Gomez, Maria","Normalized Soil, Normalized Nitrogen, Normalized Biological Evolution",5
+6.100099,4.130971,"Ribbe, Markus","Normalized Nitrogenase, Normalized Oxidation Reduction, Normalized Nitrogen",0
+-1.1417236,8.564799,"Rodriguez Verdugo, Alejandra","Normalized Nutrients, Normalized Biodiversity, Normalized Escherichia coli",0
+8.002862,4.4400725,"Schechtman-Drayman, Eitan","Normalized Sleep, Normalized Memory Consolidation, Normalized Cues",0
+6.8609195,3.8645658,"Schilling, Thomas","Normalized Zebrafish, Normalized Embryonic Development, Normalized Cell Proliferation",0
+9.523923,7.35079,"Shi, Xiaoyu","Normalized Proteomics, Normalized Microscopy, Normalized Astrocytes",0
+6.1196632,4.5693274,"Sorte, Cascade","Normalized Biodiversity, Normalized Ecological and Environmental Phenomena, Normalized Temperature",0
+8.056348,4.1917706,"Stark, Craig","Normalized Magnetic Resonance Imaging, Normalized Memory, Normalized Aged",0
+-1.4054793,8.412873,"Striedter, Georg",Normalized Biological Evolution,1
+8.986634,9.79205,"Suetterlin, Christine","Normalized Microscopy, Normalized RNA, Normalized Stem Cells",0
+9.254716,8.575828,"Sumikawa, Katumi","Normalized Nicotine, Normalized Cognitive Dysfunction, Normalized Phosphorylation",0
+0.014912111,8.95015,"Sun, Sha","Normalized Incidence, Normalized Tumor Microenvironment, Normalized RNA",0
+7.384198,11.500871,"Swarup, Vivek","Normalized White Matter, Normalized Neurodegenerative Diseases, Normalized RNA",0
+6.265194,6.286485,"Symons, Celia","Normalized Biodiversity, Normalized Temperature, Normalized Resilience  Psychological",0
+5.96355,4.984967,"Tenner, Andrea","Normalized Neuroinflammatory Diseases, Normalized Phagocytosis, Normalized Neurodegenerative Diseases",0
+6.068418,6.3159976,"Thompson-Peer, Katherine","Normalized Alleles, Normalized Mitochondria, Normalized Cell Death",0
+9.00218,8.799441,"Thompson, Leslie","Normalized Neurodegenerative Diseases, Normalized Clustered Regularly Interspaced Short Palindromic Repeats, Normalized Disease Progression",0
+-5.3735447,10.786841,"Thornton, Kevin","Normalized Ecological and Environmental Phenomena, Normalized Phylogeny, Normalized Computer Simulation",4
+9.401302,7.5659513,"Tinoco, Roberto","Normalized CD8 Positive T Lymphocytes, Normalized Immune Checkpoint Inhibitors, Normalized Persistent Infection",0
+6.100651,5.9803967,"Treseder, Kathleen","Normalized Soil, Normalized Temperature, Normalized Resilience  Psychological",0
+8.843012,9.912405,"Tsai, Shiou-Chuan",Normalized COVID 19,0
+9.485808,7.1841855,"Walsh, Craig","Normalized T Lymphocytes  Regulatory, Normalized Multiple Sclerosis, Normalized Stem Cells",0
+7.583783,11.550564,"Wang, Wenqi","Normalized Hippo Signaling Pathway, Normalized Cell Proliferation, Normalized Homeostasis",0
+0.2808331,9.001639,"Warrior, Rahul","Normalized Genetics, Normalized Homeostasis, Normalized Hippo Signaling Pathway",6
+-4.8463416,10.9908695,"Whiteson, Katrine","Normalized Bacteriophages, Normalized Anti Bacterial Agents, Normalized Gastrointestinal Microbiome",0
+-5.3845963,11.020422,"Wiles, Travis","Normalized Zebrafish, Normalized Gastrointestinal Microbiome, Normalized Bacteriophages",4
+7.962494,11.591285,"Wood, Marcelo","Normalized Cues, Normalized Neuronal Plasticity, Normalized Synapses",0
+-5.233303,10.74003,"Xue, Katherine","Normalized Gastrointestinal Microbiome, Normalized Phylogeny",2
+8.522147,11.606589,"Yassa, Michael","Normalized Magnetic Resonance Imaging, Normalized Neuroimaging, Normalized Cognitive Dysfunction",0
