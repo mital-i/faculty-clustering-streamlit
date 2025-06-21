@@ -67,15 +67,19 @@ def render_mesh_selector(umap_df, mesh_df):
     )
     # ————————————————————————————————————————————————————————————————
     # 4) One Plotly figure + multi-select
+    color_sequence = px.colors.qualitative.Set1
+
     fig = px.scatter(
         df,
         x="V1", y="V2",
+        color=umap_df["cluster"].astype(str),
+        color_discrete_sequence=color_sequence,
         hover_name="Faculty_Full_Name",
         custom_data=["Faculty_Full_Name", "mesh_str"],
         title="Click or box‐lasso to select points",
     )
     fig.update_traces(
-        hovertemplate="<b>%{customdata[0]}</b><br>MeSH terms: %{customdata[1]}<extra></extra>"
+        hovertemplate="<b>%{customdata[0]}</b><br>MeSH terms: %{customdata[1]}<extra></extra>",
     )
 
     # this both renders the chart & returns click/selection events
