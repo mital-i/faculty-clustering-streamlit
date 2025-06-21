@@ -126,7 +126,7 @@ def render_mesh_selector(umap_df, mesh_df):
     sel_manual = st.session_state.selected_faculty
     sel_name   = df["Faculty_Full_Name"].tolist() if (name_search and not sel_manual) else []
     sel_mesh   = df["Faculty_Full_Name"].tolist() if (mesh_search and not sel_manual and not name_search) else []
-
+    sel_cluster = df["Faculty_Full_Name"].tolist() if (cluster_input and not mesh_search and not sel_manual and not name_search) else []
     if sel_manual:
         sel        = sel_manual
         label      = "Download CSV of manually-selected MeSH terms"
@@ -139,6 +139,10 @@ def render_mesh_selector(umap_df, mesh_df):
         sel        = sel_mesh
         label      = f"Download CSV of all “{mesh_search}” results"
         file_name  = f"mesh_search_{mesh_search.replace(' ','_')}_mesh_terms.csv"
+    elif sel_cluster:
+        sel        = sel_cluster
+        label      = f"Download CSV of all cluster “{cluster_input}” results"
+        file_name  = f"cluster_search_{cluster_input.replace(' ','_')}_mesh_terms.csv"
     else:
         sel = []
 
@@ -157,7 +161,7 @@ def render_mesh_selector(umap_df, mesh_df):
             file_name=file_name,
             mime="text/csv",
         )
-        st.write("**Faculty included:**", ", ".join(sel))
+        st.write("**Faculty included:** \n", ", ".join(sel))
         if st.button("Clear selections"):
             st.session_state.selected_faculty.clear()
             st.session_state.clear_lasso = True
