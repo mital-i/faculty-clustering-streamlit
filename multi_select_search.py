@@ -27,6 +27,7 @@ def render_mesh_selector(umap_df, mesh_df):
     # 1) Text inputs
     name_search = st.text_input("Search faculty by name:", "")
     mesh_search = st.text_input("Search by MeSH term:", "")
+    cluster_input = st.text_input("Search by cluster number:", "")
 
     # ————————————————————————————————————————————————————————————————
     # 2) Apply filters to umap_df copy
@@ -36,6 +37,12 @@ def render_mesh_selector(umap_df, mesh_df):
     if name_search:
         mask_name = df["Faculty_Full_Name"].str.contains(name_search, case=False)
         df = df[mask_name]
+    
+    if cluster_input:
+        cluster_input_l = cluster_input.strip().lower()
+        if "cluster" in df.columns:
+            df = df[df["cluster"].astype(str).str.lower().str.contains(cluster_input_l)]
+
 
     # build a lookup list of lists from mesh_df
     mesh_lists = (
@@ -58,15 +65,8 @@ def render_mesh_selector(umap_df, mesh_df):
     df["mesh_str"] = df["Faculty_Full_Name"].map(
         mesh_lists.apply(lambda L: "; ".join(L))
     )
-
     # ————————————————————————————————————————————————————————————————
     # 4) One Plotly figure + multi-select
-    df = pd.DataFrame({
-    "x": [1, 2, 3, 4],
-    "y": [10, 20, 25, 30]
-    })
-    fig = px.scatter(df, x="x", y="y", title="Test Scatter")
-    st.plotly_chart(fig)
     fig = px.scatter(
         df,
         x="V1", y="V2",
