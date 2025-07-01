@@ -68,11 +68,12 @@ def render_mesh_selector(umap_df, mesh_df):
     # ————————————————————————————————————————————————————————————————
     # 4) One Plotly figure + multi-select
     color_sequence = px.colors.qualitative.Set1
+    df["cluster"] = df["cluster"].astype(str)
 
     fig = px.scatter(
         df,
         x="V1", y="V2",
-        color=umap_df["cluster"].astype(str),
+        color="cluster",
         color_discrete_sequence=color_sequence,
         hover_name="Faculty_Full_Name",
         custom_data=["Faculty_Full_Name", "mesh_str"],

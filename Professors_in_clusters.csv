@@ -1,115 +1,115 @@
 V1,V2,Faculty_Full_Name,Top_Mesh_Terms,cluster
-12.376226,1.5985488,"Allison, Steven","Normalized Soil, Normalized Droughts, Normalized Nitrogen",0
-3.3324115,9.957297,"Arora, Kavita","Normalized Computational Biology, Normalized Genetics",0
-15.179958,10.963822,"Atwood, Scott","Normalized Skin Neoplasms, Normalized Molecular Biology, Normalized Immunity",0
-12.327547,2.0467792,"Azizi, Emanuel","Normalized Biomechanical Phenomena, Normalized Temperature",0
-15.184138,10.055555,"Baker, Nicholas",Normalized Phosphorylation,0
-14.9757,10.516546,"Bardwell, Lee","Normalized Hedgehog Proteins, Normalized Phosphorylation, Normalized Ligands",0
-2.3122747,10.721467,"Blumberg, Bruce","Normalized Obesity, Normalized Chromatin, Normalized Multiomics",0
-14.544674,7.3408804,"Blurton-Jones, Mathew","Normalized Cytokines, Normalized Macrophages, Normalized Disease Progression",0
-13.257401,1.6188773,"Bracken, Matthew","Normalized Biodiversity, Normalized Ecological and Environmental Phenomena, Normalized Nitrogen",0
-8.910107,-4.4970465,"Briscoe, Adriana","Normalized Phylogeny, Normalized Clustered Regularly Interspaced Short Palindromic Repeats, Normalized Evolution  Molecular",0
-15.247922,9.435415,"Burley, Nancy",,0
-13.419527,5.556601,"Busciglio, Jorge","Normalized Cognitive Dysfunction, Normalized Aged, Normalized Proteomics",0
-12.006785,3.383319,"Cahill, Larry",Normalized Magnetic Resonance Imaging,0
-2.2359164,10.440215,"Cho, Ken","Normalized Gene Regulatory Networks, Normalized Chromatin, Normalized Embryonic Development",0
-14.00498,5.1133885,"Chrastil, Elizabeth","Normalized Neuroimaging, Normalized Magnetic Resonance Imaging, Normalized Computer Simulation",0
-3.1157722,10.213351,"Cinquin, Olivier","Normalized Computational Biology, Normalized Cell Line",3
-14.536117,7.1880207,"Cocco, Melanie","Normalized Magnetic Resonance Imaging, Normalized Temperature, Normalized Genotype",3
-14.269255,7.4516106,"Cohen-Cory, Susana",Normalized Synapses,3
-14.996346,10.247608,"Connor, Kwasi","Normalized Homeostasis, Normalized Temperature, Normalized Diet",3
-12.161598,2.4346979,"Cramer, Karina","Normalized Neuronal Plasticity, Normalized Synapses, Normalized Apoptosis",0
-12.570269,2.105764,"Daley, Monica","Normalized Biomechanical Phenomena, Normalized Resilience  Psychological, Normalized Computer Simulation",3
-15.071247,10.876067,"Donovan, Peter","Normalized Neurodegenerative Diseases, Normalized Stem Cells, Normalized Chromatin",3
-15.109219,10.954335,"Drayman, Nir","Normalized Antiviral Agents, Normalized Virus Diseases, Normalized RNA",3
-14.73212,8.635668,"Edinger, Aimee","Normalized CRISPR Cas Systems, Normalized Tumor Microenvironment, Normalized Nutrients",3
-14.596845,6.0972433,"Emerson, J.J.","Normalized Genotype, Normalized Alleles, Normalized Evolution  Molecular",3
-13.387512,1.4270799,"Eom, Dae Seok","Normalized Zebrafish, Normalized Macrophages",3
-14.227841,2.6777196,"Faiola, Celia","Normalized Temperature, Normalized Soil, Normalized Resilience  Psychological",0
-14.927416,8.261502,"Fortin, Norbert",Normalized Memory,3
-13.59714,6.643086,"Fowler, Christie","Normalized Nicotine, Normalized Chromatin, Normalized Microscopy",3
-3.1597724,8.859105,"Frank, Steven","Normalized Biological Evolution, Normalized Computer Simulation, Normalized Computational Biology",3
-13.696113,5.8191686,"Frostig, Ron","Normalized Astrocytes, Normalized Magnetic Resonance Imaging, Normalized Neuronal Plasticity",1
-15.256235,11.031405,"Fruman, David","Normalized Cell Line, Normalized Cell Proliferation, Normalized Apoptosis",1
-9.00913,-4.43198,"Gaut, Brandon","Normalized Genetic Variation, Normalized Chromatin, Normalized Epigenomics",1
-9.222329,-5.0868526,"German, Donovan","Normalized Diet, Normalized Temperature, Normalized Ecological and Environmental Phenomena",1
-14.172082,7.5158043,"Gershon, Paul","Normalized Proteomics, Normalized Escherichia coli, Normalized DNA",1
-14.179723,5.5915585,"Glabe, Charles","Normalized Amyloid, Normalized Immunity, Normalized Neurodegenerative Diseases",1
-14.350586,5.817932,"Gonen, Shane","Normalized Cryoelectron Microscopy, Normalized Microscopy, Normalized Bacteriophages",1
-14.665147,8.529025,"Goulding, Celia","Normalized Anti Bacterial Agents, Normalized Ligands, Normalized Pandemics",1
-14.12487,2.4818504,"Green, Kim","Normalized Cell Proliferation, Normalized Amyloid beta Peptides, Normalized Monocytes",1
-14.282615,5.864274,"Green, Michael","Normalized Ligands, Normalized Child, Normalized Nitrogenase",1
-12.205058,3.4024296,"Grill, Joshua","Normalized Aged, Normalized Amyloid, Normalized Amyloid beta Peptides",1
-2.38816,10.802691,"Gross, Steven","Normalized Neurodegenerative Diseases, Normalized Computer Simulation, Normalized Anti Infective Agents",1
-13.835854,6.1449175,"Halbrook, Christopher","Normalized Pancreatic Neoplasms, Normalized Tumor Microenvironment, Normalized Oxidation Reduction",1
-9.292694,-4.9110255,"Hammer, Tobin","Normalized Gastrointestinal Microbiome, Normalized Parasites, Normalized Ecological and Environmental Phenomena",1
-12.627674,1.588223,"Hu, Yilin","Normalized Nitrogenase, Normalized Escherichia coli, Normalized Nitrogen",1
-15.196061,9.228749,"Hughes, Christopher","Normalized Colorectal Neoplasms, Normalized Incidence, Normalized Survival Rate",2
-13.672272,1.9561318,"Huxman, Travis","Normalized Temperature, Normalized Ecological and Environmental Phenomena, Normalized Soil",2
-13.333058,5.437709,"Inlay, Matthew","Normalized Hematopoietic Stem Cell Transplantation, Normalized Graft vs Host Disease, Normalized T Lymphocytes  Regulatory",2
-2.1950445,10.361847,"James, Anthony","Normalized Genetics, Normalized CRISPR Cas Systems, Normalized RNA",2
-12.090276,3.266668,"Kawas, Claudia","Normalized Aged  80 and over, Normalized Cognitive Dysfunction, Normalized Aged",2
-15.123517,9.459402,"Kim, Seungsoo",,2
-14.479522,10.749065,"Kong, Mei","Normalized Colorectal Neoplasms, Normalized Nutrients, Normalized Heterografts",2
-15.310091,9.701943,"Konieczny, Piotr",,2
-14.240806,2.3428736,"Kvon, Evgeny","Normalized Chromatin, Normalized Hedgehog Proteins, Normalized Organoids",2
-14.187257,2.304841,"LaFerla, Frank","Normalized Amyloid beta Peptides, Normalized Proteomics, Normalized Disease Progression",2
-14.295996,2.6213412,"Lamb, Joleah","Normalized Temperature, Normalized Ecological and Environmental Phenomena, Normalized Biodiversity",2
-2.1585584,10.557745,"Lander, Arthur","Normalized Stem Cells, Normalized RNA, Normalized Cell Differentiation",2
-13.540295,5.418635,"Lane, Thomas","Normalized COVID 19, Normalized Neuroinflammatory Diseases, Normalized Pandemics",1
-15.175286,8.350937,"Lara-Gonzalez, Pablo","Normalized Embryonic Development, Normalized Cell Proliferation, Normalized Cues",1
-3.0714698,9.425382,"Lee, Grace","Normalized Parasites, Normalized Diet, Normalized Evolution  Molecular",1
-13.549223,5.36335,"Lodoen, Melissa","Normalized Toxoplasma, Normalized Parasites, Normalized Monocytes",1
-3.1433632,9.112508,"Long, Anthony","Normalized Genotype, Normalized Macrophages, Normalized Persistent Infection",1
-2.8435736,10.120535,"Luo, Ray","Normalized Computational Biology, Normalized Proteomics, Normalized Hippo Signaling Pathway",1
-2.3456047,10.352128,"Lur, Gyorgy","Normalized Synapses, Normalized Memory Consolidation, Normalized Genetics",1
-13.290416,1.2283939,"Lutterschmidt, Deborah","Normalized Temperature, Normalized Ecological and Environmental Phenomena",1
-13.622507,1.2344196,"MacGregor, Grant","Normalized Amyloid beta Peptides, Normalized Gastrointestinal Microbiome, Normalized Disease Progression",1
-2.5666044,10.271048,"Mahler, Stephen",Normalized Genetics,1
-3.352436,8.462,"Martinez, Christopher","Normalized Biomechanical Phenomena, Normalized Biological Evolution, Normalized Ecological and Environmental Phenomena",1
-3.0827177,10.174333,"Martiny, Adam","Normalized Temperature, Normalized Ecological and Environmental Phenomena, Normalized Genetics",1
-9.1715355,-4.755644,"Martiny, Jennifer","Normalized Soil, Normalized Gastrointestinal Microbiome, Normalized Diet",3
-12.487799,1.7393639,"McHenry, Matthew","Normalized Biomechanical Phenomena, Normalized Cues, Normalized Ecological and Environmental Phenomena",3
-13.887124,5.2641764,"McNaughton, Bruce","Normalized Sleep, Normalized Cues, Normalized Neuronal Plasticity",1
-13.302051,6.09534,"McNulty, Reginald","Normalized Inflammasomes, Normalized NLR Family  Pyrin Domain Containing 3 Protein, Normalized Cryoelectron Microscopy",1
-13.177882,5.9286537,"Metherate, Raju","Normalized Nicotine, Normalized Cognitive Dysfunction",1
-3.1880124,8.588408,"Mooney, Kailen","Normalized Biological Evolution, Normalized Droughts, Normalized Alleles",1
-12.218374,1.5851033,"Morehouse, Benjamin","Normalized Immunity  Innate, Normalized Virus Diseases, Normalized Immune System",1
-14.942703,8.823564,"Morrissette, Naomi","Normalized Parasites, Normalized Toxoplasma, Normalized Fibroblasts",1
-15.190489,8.557003,"Mortazavi, Ali","Normalized Amyloid beta Peptides, Normalized Gene Regulatory Networks, Normalized Single Cell Analysis",2
-15.220581,10.020474,"Nicholas, Dequina","Normalized Cytokines, Normalized Flow Cytometry, Normalized Cell Line",2
-2.6710079,10.169639,"Nie, Qing","Normalized Single Cell Analysis, Normalized Single Cell Gene Expression Analysis, Normalized Gene Regulatory Networks",2
-8.758284,-4.552577,"Parsons, Michael","Normalized Zebrafish, Normalized Pancreatic Neoplasms, Normalized Homeostasis",0
-15.205611,9.555568,"Pizzagalli, Diego",,0
-2.5356143,10.175288,"Plikus, Maksim","Normalized Single Cell Gene Expression Analysis, Normalized Stem Cells, Normalized Computational Biology",0
-9.319098,-5.062008,"Ranz, Jose","Normalized Evolution  Molecular, Normalized Phylogeny, Normalized Ecological and Environmental Phenomena",0
-13.908572,6.919816,"Razorenova, Olga","Normalized Triple Negative Breast Neoplasms, Normalized Oxidative Phosphorylation, Normalized Mitochondria",0
-3.1023269,8.704699,"Rebolleda-Gomez, Maria","Normalized Soil, Normalized Nitrogen, Normalized Biological Evolution",0
-12.620786,1.4409888,"Ribbe, Markus","Normalized Nitrogenase, Normalized Oxidation Reduction, Normalized Nitrogen",0
-3.3008175,8.5039625,"Rodriguez Verdugo, Alejandra","Normalized Nutrients, Normalized Biodiversity, Normalized Escherichia coli",0
-12.104661,3.402373,"Schechtman-Drayman, Eitan","Normalized Sleep, Normalized Memory Consolidation, Normalized Cues",0
-12.159162,2.1388068,"Schilling, Thomas","Normalized Zebrafish, Normalized Embryonic Development, Normalized Cell Proliferation",2
-13.381569,6.397182,"Shi, Xiaoyu","Normalized Proteomics, Normalized Microscopy, Normalized Astrocytes",2
-13.157329,1.4099424,"Sorte, Cascade","Normalized Biodiversity, Normalized Ecological and Environmental Phenomena, Normalized Temperature",2
-11.920032,3.2367008,"Stark, Craig","Normalized Magnetic Resonance Imaging, Normalized Memory, Normalized Aged",2
-3.2603292,8.553005,"Striedter, Georg",Normalized Biological Evolution,2
-15.051084,8.301365,"Suetterlin, Christine","Normalized Microscopy, Normalized RNA, Normalized Stem Cells",2
-14.088155,7.2194076,"Sumikawa, Katumi","Normalized Nicotine, Normalized Cognitive Dysfunction, Normalized Phosphorylation",2
-3.1802697,9.840894,"Sun, Sha","Normalized Incidence, Normalized Tumor Microenvironment, Normalized RNA",2
-14.523979,10.58562,"Swarup, Vivek","Normalized White Matter, Normalized Neurodegenerative Diseases, Normalized RNA",2
-14.1463175,2.948455,"Symons, Celia","Normalized Biodiversity, Normalized Temperature, Normalized Resilience  Psychological",0
-13.505574,1.4333669,"Tenner, Andrea","Normalized Neuroinflammatory Diseases, Normalized Phagocytosis, Normalized Neurodegenerative Diseases",0
-14.035157,2.6825943,"Thompson-Peer, Katherine","Normalized Alleles, Normalized Mitochondria, Normalized Cell Death",0
-14.394416,7.40624,"Thompson, Leslie","Normalized Neurodegenerative Diseases, Normalized Clustered Regularly Interspaced Short Palindromic Repeats, Normalized Disease Progression",0
-9.3128,-4.5891576,"Thornton, Kevin","Normalized Ecological and Environmental Phenomena, Normalized Phylogeny, Normalized Computer Simulation",0
-13.526007,6.5200295,"Tinoco, Roberto","Normalized CD8 Positive T Lymphocytes, Normalized Immune Checkpoint Inhibitors, Normalized Persistent Infection",3
-13.946074,2.560853,"Treseder, Kathleen","Normalized Soil, Normalized Temperature, Normalized Resilience  Psychological",0
-14.942618,8.641069,"Tsai, Shiou-Chuan",Normalized COVID 19,0
-13.213601,6.291903,"Walsh, Craig","Normalized T Lymphocytes  Regulatory, Normalized Multiple Sclerosis, Normalized Stem Cells",0
-14.570098,10.651553,"Wang, Wenqi","Normalized Hippo Signaling Pathway, Normalized Cell Proliferation, Normalized Homeostasis",0
-3.284723,10.067188,"Warrior, Rahul","Normalized Genetics, Normalized Homeostasis, Normalized Hippo Signaling Pathway",2
-8.874159,-4.7779713,"Whiteson, Katrine","Normalized Bacteriophages, Normalized Anti Bacterial Agents, Normalized Gastrointestinal Microbiome",2
-9.367954,-4.8853855,"Wiles, Travis","Normalized Zebrafish, Normalized Gastrointestinal Microbiome, Normalized Bacteriophages",2
-14.861604,10.702901,"Wood, Marcelo","Normalized Cues, Normalized Neuronal Plasticity, Normalized Synapses",0
-9.378186,-4.6545653,"Xue, Katherine","Normalized Gastrointestinal Microbiome, Normalized Phylogeny",0
-15.008825,10.887647,"Yassa, Michael","Normalized Magnetic Resonance Imaging, Normalized Neuroimaging, Normalized Cognitive Dysfunction",0
+6.0539804,7.3742757,"Allison, Steven","Soil, Droughts, Resilience  Psychological",0
+2.5377655,0.40713587,"Arora, Kavita","Computational Biology, Genetics",3
+11.2496805,7.483625,"Atwood, Scott","Molecular Biology, Immunity, Carcinogenesis",0
+7.2204576,7.3332543,"Azizi, Emanuel","Biomechanical Phenomena, Aging, Temperature",0
+9.123985,10.320583,"Baker, Nicholas",Phosphorylation,0
+9.438317,10.174153,"Bardwell, Lee","Phosphorylation, Ligands, Diabetes Mellitus",0
+2.6356595,-0.92386615,"Blumberg, Bruce","Obesity, Pregnancy, Chromatin",0
+8.736351,7.2963457,"Blurton-Jones, Mathew","Macrophages, Disease Progression, Monocytes",0
+2.7987914,5.835322,"Bracken, Matthew","Biodiversity, Ecological and Environmental Phenomena, Nitrogen",5
+2.57634,5.671245,"Briscoe, Adriana","Phylogeny, Clustered Regularly Interspaced Short Palindromic Repeats, Evolution  Molecular",5
+8.760471,10.429299,"Burley, Nancy",,0
+10.178693,6.2406898,"Busciglio, Jorge","Cognitive Dysfunction, Aged, Proteomics",0
+9.95044,5.7946725,"Cahill, Larry",Magnetic Resonance Imaging,0
+2.5172074,-0.5983033,"Cho, Ken","Gene Regulatory Networks, Chromatin, Embryonic Development",6
+9.316858,8.342407,"Chrastil, Elizabeth","Neuroimaging, Magnetic Resonance Imaging, Pregnancy",0
+2.6998396,0.31146672,"Cinquin, Olivier","Cell Line, Computational Biology, Aging",6
+9.983454,8.291464,"Cocco, Melanie","Magnetic Resonance Imaging, Temperature, Ligands",0
+10.381357,7.1824937,"Cohen-Cory, Susana",Synapses,0
+8.793661,10.047924,"Connor, Kwasi","Diet, Temperature",0
+9.535672,5.9379487,"Cramer, Karina","Neuronal Plasticity, Synapses, Apoptosis",0
+6.847981,7.417733,"Daley, Monica","Biomechanical Phenomena, Resilience  Psychological, Interdisciplinary Research",0
+12.233822,7.0439663,"Donovan, Peter","Neurodegenerative Diseases, Stem Cells, Chromatin",0
+12.04397,7.1160707,"Drayman, Nir","Antiviral Agents, Virus Diseases, RNA",0
+8.897754,10.071735,"Edinger, Aimee","CRISPR Cas Systems, Tumor Microenvironment, Nutrients",0
+6.663841,9.680567,"Emerson, J.J.","Alleles, Evolution  Molecular, Chromatin",0
+6.0847144,7.1749516,"Eom, Dae Seok","Zebrafish, Cell Communication, Macrophages",0
+6.3725915,9.461755,"Faiola, Celia","Temperature, Soil, Resilience  Psychological",0
+8.905589,10.465229,"Fortin, Norbert",Substance Related Disorders,0
+10.381591,6.6843114,"Fowler, Christie","Nicotine, Chromatin, Microscopy",0
+2.5368276,1.4311721,"Frank, Steven","Biological Evolution, Computer Simulation, Computational Biology",4
+10.323013,6.8233957,"Frostig, Ron","Astrocytes, Magnetic Resonance Imaging, Neuronal Plasticity",0
+12.558966,6.788493,"Fruman, David","Cell Line, Cell Proliferation, Apoptosis",0
+1.8616817,5.5631475,"Gaut, Brandon","Genetic Variation, Chromatin, Epigenomics",5
+1.9520179,5.6667757,"German, Donovan","Diet, Zebrafish, Proteomics",5
+10.555507,7.6596704,"Gershon, Paul","Proteomics, Escherichia coli, DNA",0
+10.067432,7.9357586,"Glabe, Charles","Aging, Bacteriophages, Immunity",0
+3.2592807,6.093543,"Gonen, Shane","Cryoelectron Microscopy, Bacteriophages, Microscopy",5
+8.873922,8.243094,"Goulding, Celia","Anti Bacterial Agents, Pandemics, Nutrients",0
+8.238229,7.305647,"Green, Kim","Cell Proliferation, Amyloid beta Peptides, Monocytes",0
+8.802082,7.7545223,"Green, Michael","Ligands, Child, Nitrogenase",0
+9.817005,5.969136,"Grill, Joshua","Aged, Amyloid beta Peptides, Aged  80 and over",0
+2.7635953,-0.81133467,"Gross, Steven","Neurodegenerative Diseases, Computer Simulation, Anti Infective Agents",0
+8.705967,6.808801,"Halbrook, Christopher","Pancreatic Neoplasms, Tumor Microenvironment, Fibroblasts",0
+1.6758566,5.3540783,"Hammer, Tobin","Gastrointestinal Microbiome, Parasites, Ecological and Environmental Phenomena",5
+6.560722,7.4161406,"Hu, Yilin","Nitrogenase, Escherichia coli, Nitrogen",0
+10.267396,8.112739,"Hughes, Christopher","Colorectal Neoplasms, Incidence, Survival Rate",0
+3.1479626,5.964576,"Huxman, Travis","Temperature, Ecological and Environmental Phenomena, Soil",0
+9.364109,6.282588,"Inlay, Matthew","Hematopoietic Stem Cell Transplantation, Graft vs Host Disease, T Lymphocytes  Regulatory",0
+2.7154202,-0.41900846,"James, Anthony","CRISPR Cas Systems, Genetics, RNA",6
+10.046468,5.7631445,"Kawas, Claudia","Aged  80 and over, Cognitive Dysfunction, Aging",0
+8.766056,10.349776,"Kim, Seungsoo",,0
+12.444609,6.706014,"Kong, Mei","Colorectal Neoplasms, Nutrients, Carcinogenesis",0
+8.797517,10.2882805,"Konieczny, Piotr",,0
+6.4571786,9.755344,"Kvon, Evgeny","Chromatin, Organoids, Alleles",0
+8.339511,7.581575,"LaFerla, Frank","Amyloid beta Peptides, Proteomics, Aged  80 and over",0
+6.32027,9.535091,"Lamb, Joleah","Temperature, Ecological and Environmental Phenomena, Biodiversity",0
+2.58956,-0.7729246,"Lander, Arthur","Stem Cells, RNA, Cell Differentiation",0
+9.118716,6.487317,"Lane, Thomas","COVID 19, Neuroinflammatory Diseases, Pandemics",0
+11.278205,6.97814,"Lara-Gonzalez, Pablo","Embryonic Development, Cell Proliferation, Aging",0
+2.6557367,0.928425,"Lee, Grace","Parasites, Diet, Epigenomics",0
+8.747105,6.7104774,"Lodoen, Melissa","Toxoplasma, Parasites, Monocytes",0
+2.5484834,1.0954795,"Long, Anthony","Macrophages, Aging, Persistent Infection",0
+2.6515496,0.09756126,"Luo, Ray","Computational Biology, Proteomics, Hippo Signaling Pathway",6
+2.688681,-0.1970251,"Lur, Gyorgy","Aging, Synapses, Computer Simulation",6
+2.2692456,5.7295675,"Lutterschmidt, Deborah","Temperature, Ecological and Environmental Phenomena",5
+6.349356,9.15023,"MacGregor, Grant","Amyloid beta Peptides, Gastrointestinal Microbiome, Astrocytes",0
+2.6469324,-0.030801866,"Mahler, Stephen","Reward, Substance Related Disorders, Genetics",6
+2.4340112,1.8299537,"Martinez, Christopher","Biomechanical Phenomena, Biological Evolution, Ecological and Environmental Phenomena",5
+2.1891968,5.286228,"Martiny, Adam","Temperature, Ecological and Environmental Phenomena, Genetics",6
+1.8348354,5.2690725,"Martiny, Jennifer","Soil, Gastrointestinal Microbiome, Diet",5
+6.2705064,7.392636,"McHenry, Matthew","Biomechanical Phenomena, Cues, Ecological and Environmental Phenomena",0
+9.88241,8.114627,"McNaughton, Bruce","Sleep, Cues, Neuronal Plasticity",0
+8.462291,7.017276,"McNulty, Reginald","Inflammasomes, NLR Family  Pyrin Domain Containing 3 Protein, Cryoelectron Microscopy",0
+10.037297,6.262993,"Metherate, Raju","Nicotine, Cognitive Dysfunction, Pharmaceutical Preparations",0
+2.463492,1.6444255,"Mooney, Kailen","Biological Evolution, Droughts, Alleles",5
+6.100624,7.250325,"Morehouse, Benjamin","Immunity  Innate, Virus Diseases, Antiviral Agents",0
+9.782476,8.271088,"Morrissette, Naomi","Parasites, Toxoplasma, Ligands",0
+11.587425,7.012141,"Mortazavi, Ali","Aging, Amyloid beta Peptides, Gene Regulatory Networks",0
+9.209273,10.364639,"Nicholas, Dequina","Flow Cytometry, Cell Line, Single Cell Gene Expression Analysis",0
+2.59388,-0.5000937,"Nie, Qing","Cell Communication, Gene Regulatory Networks, Single Cell Analysis",6
+3.476365,6.2055254,"Parsons, Michael","Zebrafish, Pancreatic Neoplasms, Gastrointestinal Microbiome",5
+8.735895,10.262821,"Pizzagalli, Diego",,0
+2.3985696,-0.70828485,"Plikus, Maksim","Single Cell Gene Expression Analysis, Stem Cells, Fibroblasts",0
+1.5787393,5.2325153,"Ranz, Jose","Evolution  Molecular, Phylogeny, Ecological and Environmental Phenomena",5
+10.278354,6.9927883,"Razorenova, Olga","Triple Negative Breast Neoplasms, Oxidative Phosphorylation, Mitochondria",0
+2.4081502,1.7333006,"Rebolleda-Gomez, Maria","Soil, Droughts, Nitrogen",5
+6.5184846,7.380152,"Ribbe, Markus","Nitrogenase, Oxidation Reduction, Nitrogen",0
+2.4967282,1.8990074,"Rodriguez Verdugo, Alejandra","Nutrients, Biodiversity, Escherichia coli",5
+11.816632,6.783332,"Schechtman-Drayman, Eitan","Sleep, Memory Consolidation, Cues",0
+6.2451735,7.210901,"Schilling, Thomas","Zebrafish, Embryonic Development, Computer Simulation",0
+9.809194,5.989392,"Shi, Xiaoyu","Proteomics, Microscopy, Astrocytes",0
+2.6659892,5.9174128,"Sorte, Cascade","Biodiversity, Ecological and Environmental Phenomena, Temperature",5
+10.158243,5.8433895,"Stark, Craig","Aging, Magnetic Resonance Imaging, Aged",0
+2.404192,1.6303499,"Striedter, Georg",Biological Evolution,1
+10.065209,7.86309,"Suetterlin, Christine","Microscopy, RNA, Stem Cells",0
+11.036919,6.752253,"Sumikawa, Katumi","Nicotine, Reward, Pregnancy",0
+2.6883316,0.6357646,"Sun, Sha","Incidence, Cell Proliferation, Tumor Microenvironment",6
+12.192644,6.772247,"Swarup, Vivek","White Matter, Neurodegenerative Diseases, Neuroinflammatory Diseases",0
+6.5532136,9.348783,"Symons, Celia","Biodiversity, Interdisciplinary Research, Temperature",0
+7.797779,7.5934496,"Tenner, Andrea","Neuroinflammatory Diseases, Phagocytosis, Neurodegenerative Diseases",0
+6.3871775,9.601907,"Thompson-Peer, Katherine","Alleles, Mitochondria, Cell Death",0
+10.479097,7.5508685,"Thompson, Leslie","Neurodegenerative Diseases, Clustered Regularly Interspaced Short Palindromic Repeats, Disease Progression",0
+1.702339,5.4213014,"Thornton, Kevin","Ecological and Environmental Phenomena, Phylogeny, Computer Simulation",7
+9.532054,6.323727,"Tinoco, Roberto","CD8 Positive T Lymphocytes, Immune Checkpoint Inhibitors, Persistent Infection",0
+6.4207807,9.476908,"Treseder, Kathleen","Soil, Temperature, Resilience  Psychological",0
+9.965144,8.170292,"Tsai, Shiou-Chuan",COVID 19,0
+8.880917,6.5189166,"Walsh, Craig","T Lymphocytes  Regulatory, Multiple Sclerosis, Stem Cells",0
+12.310614,6.673556,"Wang, Wenqi","Hippo Signaling Pathway, Cell Proliferation, Carcinogenesis",0
+2.602678,0.27315935,"Warrior, Rahul","Genetics, Hippo Signaling Pathway, Phosphorylation",6
+2.6624887,5.5578337,"Whiteson, Katrine","Bacteriophages, Anti Bacterial Agents, Gastrointestinal Microbiome",5
+2.019958,5.8102717,"Wiles, Travis","Zebrafish, Gastrointestinal Microbiome, Bacteriophages",5
+12.051534,6.9389496,"Wood, Marcelo","Substance Related Disorders, Cocaine, Cues",0
+1.6337255,5.505586,"Xue, Katherine","Gastrointestinal Microbiome, Phylogeny",2
+12.205786,6.80697,"Yassa, Michael","Magnetic Resonance Imaging, Neuroimaging, Cognitive Dysfunction",0
