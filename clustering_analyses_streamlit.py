@@ -21,10 +21,10 @@ import numpy as np
 
 # Configuration
 config = {
-    'file_path': 'mesh_terms_matrix_5yrs_and_keywords.xlsx',
+    'file_path': 'faculty_mesh_terms_matrix.xlsx',
     'pca_components_to_try': range(1, 7),
-    'dbscan_eps': 0.05,
-    'dbscan_min_samples': 2,
+    #'dbscan_eps': 0.05,
+    #'dbscan_min_samples': 2,
     'anova_alpha': 0.05,
     'top_n_features_to_plot': 10,
     'cluster_output_path': 'Professors_in_clusters.csv',
@@ -84,15 +84,15 @@ def load_and_preprocess_data(file_path, index_col='Faculty_Full_Name'):
     return raw_data, feature_matrix
 
 @st.cache_data
-def run_pca(features):
+def run_pca(feature_matrix):
     pca = PCA()
-    embeddings = pca.fit_transform(features)
+    embeddings = pca.fit_transform(feature_matrix)
     return pca, embeddings
 
 @st.cache_data
-def run_umap(features, n_neighbors=15, min_dist=0.1, metric='cosine'):
-    umap = UMAP(n_neighbors=n_neighbors, min_dist=min_dist, metric=metric, random_state=42)
-    return umap.fit_transform(features)
+def run_umap(feature_matrix, n_neighbors=15, min_dist=0.1, metric='cosine'):
+    umap = UMAP(n_neighbors=n_neighbors, min_dist=min_dist, metric=metric, random_state=123)
+    return umap.fit_transform(feature_matrix)
 
 @st.cache_data
 def calculate_top_mesh_terms(raw_data, mesh_term_columns):
@@ -197,7 +197,7 @@ st.subheader("Clustering")
 clustering_method = st.selectbox("Clustering Method", ["K-means", "DBSCAN"])
 if clustering_method == "K-means":
     k = st.slider("# Clusters", 2, 30, 8)
-    labels = KMeans(n_clusters=k, random_state=42).fit_predict(pca_reduced)
+    labels = KMeans(n_clusters=k, random_state=123).fit_predict(pca_reduced)
 elif clustering_method == "DBSCAN":
     eps = st.slider("DBSCAN eps", 0.01, 1.0, config['dbscan_eps'], 0.01)
     min_samples = st.slider("min_samples", 2, 10, config['dbscan_min_samples'])
